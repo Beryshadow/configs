@@ -1,0 +1,30 @@
+theme = "bery2"
+# theme = "ayu_mirage"
+
+[editor]
+idle-timeout = 0
+cursorline = true
+color-modes = true
+line-number = "relative"
+
+[editor.indent-guides]
+render = true
+character = "|"
+
+[keys.normal]
+C-s = ":w"
+"left" = "no_op"
+"right" = "no_op"
+"up" = "no_op"
+"down" = "no_op"
+
+[keys.insert]
+"C-[" = "normal_mode"
+"C-s" = ":w"
+"backspace" = "no_op"
+"left" = "no_op"
+"right" = "no_op"
+"up" = "no_op"
+"down" = "no_op"
+"esc" = "no_op"
+"backspace" = "no_op"
