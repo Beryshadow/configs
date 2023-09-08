@@ -1,10 +1,32 @@
 theme = "bery2"
 
 [editor]
+# rainbow-brackets = true
 idle-timeout = 0
+cursorline = true
+color-modes = true
+line-number = "relative"
+completion-trigger-len = 1
+mouse = false
+
+[editor.indent-guides]
+render = true
+character = "|"
 
 [keys.normal]
-C-s = ":w"
+C-s = ":update"
+"left" = "no_op"
+"right" = "no_op"
+"up" = "no_op"
+"down" = "no_op"
 
 [keys.insert]
 "C-[" = "normal_mode"
+"C-s" = ":update"
+"backspace" = "no_op"
+"left" = "no_op"
+"right" = "no_op"
+"up" = "no_op"
+"down" = "no_op"
+# "esc" = "no_op"
+# "backspace" = "no_op"
