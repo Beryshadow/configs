@@ -42,7 +42,7 @@
             "always_enabled": true
           },
           "style": "diamond",
-          "template": " \ufbab {{ .FormattedMs }}\u2800",
+          "template": " {{ .FormattedMs }} \ufa1e \ud83e\udd84",
           "trailing_diamond": "\ue0b0",
           "type": "executiontime"
         },
