@@ -1,0 +1,79 @@
+"attribute" = "#dc7759"
+"keyword" = { fg = "#ff8b39", modifiers = ["bold"] }
+"keyword.directive" = "#ff8b39"
+"keyword.function" = "#ff8b39"
+"namespace" = "#cbcac2"
+"punctuation" = "#dc7759"
+"punctuation.delimiter" = "#dc7759"
+"operator" = { fg = "#dc7759", modifiers = ["bold"] }
+"special" = "#7fdc59"
+"variable.other.member" = "#c6b8ad"
+"variable" = "#c6b8ad"
+"variable.parameter" = "#c6b8ad"
+"type" = "#dcb659"
+"type.builtin" = { fg = "#cbcac2", modifiers = ["bold"] }
+"constructor" = "#dcb659"
+"function" = "#59dcd8"
+"function.macro" = { fg = "#59dcd8", modifiers = ["bold"] }
+"function.builtin" = { fg = "#59dcd8", modifiers = ["bold"] }
+"comment" = "#627d9d"
+"variable.builtin" = "#c6b8ad"
+"constant" = "#59dcb7"
+"constant.builtin" = "#59dcb7"
+"string" = "#59dcb7"
+"constant.numeric" = "#308dff"
+"constant.character.escape" = { fg = "#7fdc59", modifiers = ["bold"] }
+"label" = "#59c0dc"
+
+"module" = "#cbcac2"
+
+"ui.statusline.normal" = { fg = "#232d38", bg = "#C0EDC8", modifiers = ["bold"] }
+"ui.statusline.insert" = { fg = "#232d38", bg = "#EBAE6A", modifiers = ["bold"]  }
+"ui.statusline.select" = { fg = "#232d38", bg = "#BEA4ED", modifiers = ["bold"]  }# TODO
+
+"markup.heading" = "blue"
+"markup.list" = "red"
+"markup.bold" = { fg = "yellow", modifiers = ["bold"] }
+"markup.italic" = { fg = "magenta", modifiers = ["italic"] }
+"markup.link.url" = { fg = "yellow", modifiers = ["underlined"] }
+"markup.link.text" = "red"
+"markup.quote" = "cyan"
+"markup.raw" = "green"
+
+"diff.plus" = "#59dcb7"
+"diff.delta" = "#dc7759"
+"diff.minus" = "#dcb659"
+
+"ui.cursorline" = { bg = "#232d38" }
+"ui.background" = { bg = "#1F2430" }
+"ui.linenr" = { fg = "#415367" }
+"ui.linenr.selected" = { fg = "#e5ded6" }  # TODO
+"ui.statusline" = { fg = "#e5ded6", bg = "#232d38" }
+"ui.statusline.inactive" = { fg = "#c6b8ad", bg = "#232d38" }
+"ui.popup" = { bg = "#232d38" }
+"ui.window" = { bg = "#232d38" }
+"ui.help" = { bg = "#232d38", fg = "#e5ded6" }
+
+"ui.text" = { fg = "#e5ded6" }
+"ui.text.focus" = { fg = "#e5ded6", modifiers= ["bold"] }
+"ui.virtual.whitespace" = "#313f4e"
+
+"ui.selection" = { bg = "#313f4e"} 
+# "ui.cursor.match"  # TODO might want to override this because dimmed is not widely supported
+"ui.cursor.match" = { fg = "#313f4e", bg = "#dc7759" }
+"ui.cursor" = { fg = "#abb2bf", modifiers = ["reversed"] }
+
+"ui.menu" = { fg = "#e5ded6bg", bg = "#232d38" }
+"ui.menu.selected" = { bg = "#313f4e" }
+
+"warning" = "#dbbf60"
+"error" = "#e67f5a"
+"info" = "#59dcb7"
+"hint" = "#dcc459"
+
+# make diagnostic underlined, to distinguish with selection text.
+diagnostic = { modifiers = ["underlined"] }
+"diagnostic.error" = { bg = "#381a0f", modifiers = ["underlined"] }
+"diagnostic.warning" = { bg = "#423934", modifiers = ["underlined"] }
+"diagnostic.info" = { bg = "#59dcb7", modifiers = ["underlined"] }
+"diagnostic.hint" = { bg = "#202842", modifiers = ["underlined"] }
