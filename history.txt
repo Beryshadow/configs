@@ -1,0 +1,4127 @@
+hx .
+config nu
+config nu hx
+hx config nu
+config nu .
+config nu
+cd /etc/nixos/configuration.nix
+cd /etc/nixos/
+ls
+hx .
+nixos-help
+cd /etc/nixos/
+ls
+sudo hx .
+sudo 
+cd /etc/nixos/
+echo $XDG_SESSION_TYPE 
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+hx .
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+hx .
+ok
+lol
+~/.config/helix/config.toml
+~/.config/helix
+ls
+cd ..
+ls
+cd helix
+ls 
+~/.config/helix/themes
+~/.config/helix
+mkdir themes
+cd themes
+hx .
+hx .
+etc/nixos
+cd etc/nixos
+cd etc
+ls
+cd ..
+ls
+cd ..
+ls
+cd etx
+cd etc
+cd nixos
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo nixos-rebuild boot
+sudo hx .
+sudo nixos-rebuild boot
+hx
+reboot
+hx
+ls
+sudo hx .
+sudo nixos-rebuild boot
+sudo hx .
+sudo nixos-rebuild switch
+hx
+cd ~
+cd ..
+cd etc
+cd nixos
+sudo hx .
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+cd ..
+cd nixos
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+sudo hx .
+sudo nixos-rebuild switch
+git clone https://github.com/helix-editor/helix
+sudo hx .
+sudo nixos-rebuild switch
+~/.config/helix/
+ls
+delete config.toml
+drop config.toml
+cd ..
+rm helix
+rm -r helix
+ls
+cd helix
+cd rust
+git clone https://github.com/nushell/nushell.git
+cargo build --release --workspace && cargo run --release
+cd nu
+ls
+cd nushell
+cargo build --release --workspace && cargo run --release
+cargo build --release --workspace
+cd ..
+cd ....
+cd etc
+cd shells
+cd shell
+ls
+hx --health
+ln -s $PWD/runtime ~/.config/helix/runtime
+hx --health
+cd .config
+ls
+cd helix
+cd /.config
+hx --grammar fetch
+hx --grammar build
+hx --grammar fetch
+hx .
+~/.config/helix/themes
+ls
+cd ..
+ls
+cd themes
+ls
+cd ..
+cd runtime
+ls
+cd runtime
+runtime
+cd themes
+hx
+ls
+cd helix
+ls
+cd config
+cd helix
+git clone https://github.com/Beryshadow/configs.git
+cd ..
+cd etc/.config
+hx .
+hx --health
+hx .
+hx --grammar build
+hx
+~
+cd rust
+cd helix
+hx .
+cd ..
+git clone https://github.com/Beryshadow/aoc2022.git
+git config --global user.name "Beryshadow"
+nixos search gh
+nixos
+nixos-search
+nix search gh
+nix search nipkg gh
+--extra-experimental-features nix-command
+nix search gh --extra-experimental-features nix-command
+nix search gh --extra-experimental-features nix-command flakes
+nix search gh --extra-experimental-features flakes
+nix search gh --extra-experimental-features flakes --extra-experimental-features nix-command
+~
+cd ..
+cd etc
+cd nixos
+hx .
+sudo hx .
+sudo nixos-rebuild switch
+gh auth login
+~
+cd rust
+git clone https://github.com/Beryshadow/aoc2022.git
+cd ..
+cd root
+sudo cd root
+sudo root
+ls
+cd root
+ripgrep
+cd ..
+cd /
+cd etc
+cd nixos
+nix-env
+nix-env --help
+sudo hx .
+sudo nixos-rebuild switch
+hx .
+sudo hx .
+hx .
+cd /
+cd etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+rg '#the callisse the tabarnak killed mon chien'
+rg
+cd /
+rg #the callisse the tabarnak killed mon chien
+rg '#the callisse the tabarnak killed mon chien'
+sudo rg '#the callisse the tabarnak killed mon chien'
+sudo hx
+cd /
+cd etc
+cd nixos
+hx .
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+config nu
+sudo hx .
+sudo nixos-rebuild switch
+echo $EDITOR
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+reboot
+cd etc
+cd nixos
+sudo hx .
+rg '#the callisse the tabarnak killed mon chien'
+which hx
+which sudo hx
+which 'sudo hx'
+sudo which hx
+/home/berys/.nix-profile/bin
+ls
+cd /
+find "config.toml"
+find . -name "config.toml"
+./root/.config/helix/config.toml
+sudo ./root/.config/helix
+cd ./root/.config/helix
+ls
+cd root
+sudo root
+which hx
+ls
+cd lost+found
+ls
+cd etc
+cd /
+sudo -i
+cd /
+cd etc/nixos
+sudo hx .
+nix search gh
+ls
+hx .
+nix-shell -p libsForQt514.booth
+ls
+sudo hx 
+sudo hx .
+sudo nixos-rebuild switch
+xz
+sudo hx .
+cd /run/current-system/sw/bin
+ls
+cd /
+cd run
+ls
+cd current-system
+ls
+cd sw
+ls
+cd bin
+cp -s
+which hx
+cp -s /home/berys/.nix-profile/bin/hx .
+cp -P /home/berys/.nix-profile/bin/hx .
+cp --help
+ln -s /home/berys/.nix-profile/bin/hx .
+sudo ln -s /home/berys/.nix-profile/bin/hx .
+sudo ln /home/berys/.nix-profile/bin/hx .
+ln
+ln --help
+sudo ln -P /home/berys/.nix-profile/bin/hx .
+sudo ln -P /nix/store/lycwy4375cnhl3b173mfqpplgchjryna-helix-22.08.1/bin/hx .
+sudo ln -s /nix/store/lycwy4375cnhl3b173mfqpplgchjryna-helix-22.08.1/bin/hx .
+cd /
+ls
+~
+cd rust
+ls
+cd helix
+ls
+git pull origin master
+cargo install --path helix-term
+cc
+cd /
+cd etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+ls -R
+ls --help
+ls -a
+/
+ls -a
+find ./*
+ls
+ls --help
+ls subdir
+ls subdir -a
+ls -f
+ls -s
+~
+cd rust
+cd layout_alg
+cargo run --release
+rustup default stable
+cargo run --release
+sudo apt install build-essential
+cd /
+cd etc
+cd nixos
+sudo hx .
+sudo nixos-rebuild switch
+sudo apt install build-essential
+cargo run --release
+nix-channel --list
+hx -V
+hx
+cd /
+hx
+hx -V
+cd ..
+cd helix
+git pull origin master
+cargo install --path helix-term
+sudo cargo install --path helix-term
+hx -V
+sudo -i
+cd /
+cd etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+hx -V
+ls
+:q
+q
+cd ..
+cd /
+cd home
+ls
+cd berys
+cd /
+cd home
+cd /
+cd etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+nix-garbage-collector
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+nix-collect-garbage
+proc
+neofetch
+cd etc/nixos
+cd /etc/nixos
+inix-shell
+nix-shell
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+nix-collect-garbage
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+nix-collect-garbage
+neofetch
+sudo hx .
+sudo nixos-rebuild switch
+neofetch
+sudo neofetch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+reboot
+hx .
+which hx
+ls
+Installation
+Installation.bash
+#!/bin/bash
+##############################################
+#
+# Veuillez lancer ce script dans un terminal
+# Please launch this script in a terminal
+#
+##############################################
+CHMOD=`which chmod`
+DIR="$( cd "$( dirname "$BASH_SOURCE[0]}" )" >/dev/null && pwd)"
+LOCALE="$(locale | grep LANG= | cut -d= -f2 | cut -d_ -f1)"
+ARCH=`uname -m`
+##############################################
+NOM_INST="$DIR/.bin/DruideInst"
+NOM_INST_GUI="$DIR/.bin/DruideInstGUI"
+##############################################
+affiche_message_dans_locale () #"Message Fr" "Message En"
+{<\n>if [ $LOCALE == "fr" ]; thenecho $1elseecho $2fi}
+##############################################
+# Test x64
+##############################################
+case "$ARCH" in
+p"x86_64" | "amd64" )ARCH=64;;p * )affiche_message_dans_locale "Système x64 requis" "x64 system required"exit 1;;p esac
+##############################################
+# Test Binaires
+##############################################
+if [ ! -f "$NOM_INST" ]; then
+paffiche_message_dans_locale "L'archive doit être décompressée" "The archive must be decompressed."exit 1fi
+$CHMOD a+x "$NOM_INST"
+$CHMOD a+x "$NOM_INST_GUI"
+if [ "$1" = "-noGui" ]; then
+paffiche_message_dans_locale "Vous devez accepter la licence d'utilisation [$(tput bold)O$(tput sgr0)/n]" "The licence agreement must be approved [$(tput bold)Y$(tput sgr0)/n]"read -n 1 -r -s replyif [[ $reply == [YyOo] ]]; then"pkexec" "$NOM_INST" "$@"fielse
+p"$NOM_INST_GUI" "$@"fi
+echo
+sudo hx .
+cd /
+cd etc/nixos
+ls
+sudo nixos-rebuild switch
+systemctl start nix-gc.service
+sudo nixos-rebuild switch
+nix-store --optimise
+sudo nixos-rebuild switch
+element
+sudo nixos-rebuild switch
+oh-my-posh
+oh-my-posh shell
+oh-my-posh get shell
+oh-my-posh init nu
+oh-my-posh init nu --print | save /home/berys/config/omp.nu
+config nu
+oh-my-posh init nu --config '/home/berys/config/omp.nu' | Invoke-Expression
+oh-my-posh init nu --config '/home/berys/config/omp.nu'
+oh-my-posh init nu --config /home/berys/config/bery.omp.json
+
+echo bob
+echo 🦄
+ls
+cd rust
+hx .
+cd config
+cd ..
+cd config
+ls
+cd config
+ls
+hx .
+cd config
+oh-my-posh init nu --config /home/berys/config/bery.omp.json
+ls
+cd rust
+ls
+:q
+cd ..
+ls
+cd berys
+ls
+cd config
+ls
+cd config
+hx .
+cd config
+ls
+cd config
+ls
+bob
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+nix search drive
+ls
+nix-collect-garbage
+ls
+cd rust
+cd layout_alg
+hx .
+cd rust
+cd layout_alg
+cd rust/layout_alg
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+⠠
+ls
+nix-collect-garbage
+nix-channel --update; nix-env -iA nixpkgs.nix nixpkgs.cacert; systemctl daemon-reload; systemctl restart nix-daemon
+ls
+cd /
+ls
+neofetch
+lol
+.
+nix
+neofetch
+nix-shell -p neofetch
+cd rust
+ls
+cd /
+cd etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild switch
+ls
+woah
+home
+ls
+cd rust
+ls
+config
+config env
+hx .
+hx -V
+sudo hx .
+which hx
+sudo nixos-rebuild switch
+hx which
+hx -w
+which hx
+reboot
+which hx
+hx
+cd /
+cd home
+cd berys
+cd rust
+ls
+cd helix
+git pull origin master
+nix-env --query --installed
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx ..
+sudo hx .
+sudo nixos-rebuild switch
+ls
+which hx
+sudo which hx
+nix-env -u '*'
+sudo nixos-channel --list
+nix-env 
+nix-env --help
+nix-env --query
+nix-env -e helix
+nix-env -e nushell
+sudo nixos-rebuild switch
+nix-env --query
+hx
+sudo cargo install --path helix-term
+which hx
+hx
+cargo hx
+echo $PATH
+config ni
+config nu
+hx
+export PATH=$PATH:~/.cargo/bin
+config nu
+echo $PATH
+config nu
+hx
+nu
+nu
+hx
+nu
+cd /
+cd root
+sudo -i
+config nu
+config nu
+echo $nu.config-path
+config nu
+$env
+nu
+ls
+config nu
+nu
+hx
+x11
+hx
+nu
+hx
+sudo -i
+cd .
+cd /
+cd etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild switch
+hx .
+ls
+cd rust
+cd layout_alg/
+hx .
+hx -config
+hx --config
+hx .
+hx
+cd rust
+cd layout_alg/
+hx --health
+sudo hx --grammar fetch
+sudo hx --grammar build
+sudo hx --health rust
+cd rust
+cd helix
+sudo cargo install --path helix-term
+hx --health
+hx -g fetch
+sudo hx -g fetch
+sudo hx -g build
+sudo hx -h
+sudo hx -v --health rust
+hx
+hx .
+hx --health
+hx --health
+echo $nu.config-path
+cd /home/berys/.config/nushell/config.nu
+/home/berys/.config/nushell
+ls
+hx .
+hx --health
+hx -h
+hx -c /home/berys/helix/runtime/config.toml
+hx --health
+hx
+hx --health
+hx .
+hx
+nixos
+nixos-search
+nixos-rebuild
+hx .
+hx -h
+hx -V
+hx .
+cd /etc/nixos
+hx .
+ls
+bo
+cd e
+cd /home/berys/config/bery.omp.json
+/home/berys/config
+/home/berys/config/bery.omp.json
+cd /home/berys/config/bery.omp.json
+/home/berys/config
+cd ls
+ls
+hx 
+hx /home/berys/config/bery.omp.json
+lmao
+ok
+hx /home/berys/config/bery.omp.json
+config nu
+ok
+hx -V
+cd rust
+cd helix
+git pull origin master
+reboot
+ls
+hx .
+hx /home/berys/config/bery.omp.json
+hx .
+hx /home/berys/config/bery.omp.json
+bd
+ls
+cargo run
+cargo list
+cargo --list
+cargo bacon
+cargo install --locked bacon
+bacon
+ls
+hx .
+ls
+hx alacritty.yml
+ls
+reboot
+ls
+ok
+ls
+clear
+ok
+hash alacritty.yml
+hash
+hash sha256 alacritty.yml
+hash sha256
+ls
+hash sha256 Downloads
+hash sha256 .hidden
+hash sha256 /home/berys/alacritty.yml
+hash sha256 /home/berys/alacritty.yml/
+hash sha256 /home/berys/alacritty
+hash sha256 ok
+hash sha256 "ok"
+hash sha256 "alacritty.yml"
+fc-list
+hx /home/berys/config/bery.omp.json
+which nu
+--login
+-logng
+login
+hx alacritty.yml
+reboot
+ls
+alacritty -v
+terminal
+which nu
+alacritty
+alacritty /home/berys/rust
+alacritty --help
+alacritty --socket /home/berys/rust
+ok
+alacritty --socket /home/berys/rust/
+alacritty --working-directory /home/berys/rust/
+cd layout_ d
+cd layout_alg
+sudo nixos-rebuild switch
+sudo nix-collect-garbage
+cd /
+cd etc/nixos
+sudo nix-channel --update
+nix-env -u '*'
+nix repl
+man configuration.nix
+nix repl <nixpkgs>
+rtla
+sudo hx /etc/nixos
+sudo nixos-rebuild switch
+rclone mount
+rclone config
+rclone
+rclone cmount
+rclone
+rclone ls
+rclone listremotes
+rclone ls
+rclone ls drive
+rclone ls ":drive"
+rclone ls "drive:"
+rclone cmount "drive:"
+rclone cmount "drive:" /home/drive
+rclone cmount "drive:" /home/berys/
+rclone cmount "drive:" /home/berys/drive
+rclone mount "drive:" /home/berys/drive
+rclone mount "drive:" /home/berys/drive --allow-non-empty
+sudo rclone mount "drive:" /home/berys/drive --allow-non-empty
+sudo rclone cmount "drive:" /home/berys/drive
+rclone bisync
+rclone mount
+rclone
+rclone synce
+rclone sync
+rclone sync /home/berys/drive "drive:"
+rclone mount "drive:" /drive
+rclone mount "drive:" /home/berys/drive
+rclone listremotes
+rclone list
+rclone mkdir 
+rclone mkdir "drive:"
+man rclone
+rclone listremotes
+rclone unmount
+rclone cmount "drive:" /home/berys/drive
+rclone mount "drive:" /home/berys/drive
+rclone mount "drive:" /home/berys/drive --allow-non-empty
+ls
+cd drive
+unmount drive
+sudo -l
+ls
+unmount drive
+lsblk -f
+rclone mount "drive:" /home/berys/drive
+cd drive
+ls
+cd ..
+greet "bob"
+hx .
+./new_term
+./new_term.nu
+ls
+new_term
+./new_term.nu
+./new_term
+./new_term.nu
+l
+;s
+cd std
+cd script
+ls
+cd scripts
+ls
+new_term
+./new_term
+new_term.nu
+./new_term.nu
+hx .
+killall -15 rclone
+man kill
+ps
+kill
+kill /run/current-system/sw/bin/rclone
+ps | where name == /run/current-system/sw/bin/rclone | get pid.0 | kill -15
+ps | where name == /run/current-system/sw/bin/rclone | get pid.0 | kill -9
+ps | where name == /run/current-system/sw/bin/rclone | get pid.0 | kill
+ps | where name == /run/current-system/sw/bin/rclone | get pid.0 | kill -s 15
+ps | where name == /run/current-system/sw/bin/rclone | get pid.0
+kill -s 15 (ps | where name == /run/current-system/sw/bin/rclone | get pid.0)
+ps | where name == /run/current-system/sw/bin/rclone | get pid.0
+ps
+kill 5969
+ps
+ps | where name == /run/current-system/sw/bin/rclone | get pid.0
+ps
+kill -s 15 (ps | where name == /run/current-system/sw/bin/rclone | get pid.0)
+version
+man helix
+man hx
+hx -V
+ps
+alacritty
+man alacritty
+alacritty -e kill -s 15 (ps | where name == /run/current-system/sw/bin/rclone | get pid.0)
+man alacritty
+Alacritty
+alacritty
+alacritty -hold -e /home/berys/std/scripts/new_term.nu
+alacritty -hold
+alacritty
+alacritty -e echo "bpb"
+alacritty -e echo "bpb" --hold
+alacritty --hold -e echo "bpb"
+cd scripts
+cd std
+cd scripts
+hx .
+ls
+mkf
+touch
+touch unmount.nu
+hx .
+unmount.nu
+./unmount.nu
+cd std
+cd scripts
+./unmount.nu
+let pido = 0
+$pido
+let pido = ps | where name == /run/current-system/sw/bin/rclone | get pid.0
+let pida = ps | where name == /run/current-system/sw/bin/rclone | get pid.0
+let pida = (ps | where name == /run/current-system/sw/bin/rclone | get pid.0)
+let pida = (ps | where name == /run/current-system/sw/bin/rclone | get pid.0) or 0
+let pida = (ps | where name == /run/current-system/sw/bin/rclone | try_get pid.0)
+./unmount.nu
+let pido = (ps | where name == /run/current-system/sw/bin/rclone | get pid.0) 
+kill pido
+pido
+$pido
+kill $pido
+./unmount.nu
+hx .
+./unmount.nu
+ps
+cd std
+cd scripts
+ls
+cd /etc/nixos
+ls
+hx .
+sudo hx .
+sudo nixos-rebuild switch
+reboot
+ls
+cd helix
+term
+ls
+ok
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+leftwm
+leftwm-config
+leftwm-check
+leftwm-config
+leftwm-theme update
+leftwm-theme update
+leftwm-theme
+cd hx
+cd rust
+cd ~
+cd rust
+git clone https://github.com/leftwm/leftwm.git
+cd leftwm
+cargo build --profile optimized
+sudo ln -s "$(pwd)"/target/optimized/leftwm /usr/bin/leftwm
+sudo ln -s "$(pwd)"/target/optimized/leftwm-worker /usr/bin/leftwm-worker
+sudo ln -s "$(pwd)"/target/optimized/lefthk-worker /usr/bin/lefthk-worker
+sudo ln -s "$(pwd)"/target/optimized/leftwm-state /usr/bin/leftwm-state
+sudo ln -s "$(pwd)"/target/optimized/leftwm-check /usr/bin/leftwm-check
+sudo ln -s "$(pwd)"/target/optimized/leftwm-command /usr/bin/leftwm-command
+sudo cp leftwm.desktop /usr/share/xsessions/
+ls
+leftwm theme
+leftwm check
+leftwm --help
+leftwm hlep
+leftwm help
+leftwm
+startx leftwm
+leftwm startx
+startx
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+reboot
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+reboot
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+neofetch
+sudo hx .
+neofetch
+sudo nixos-rebuild switch
+neofetch
+leftwm
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+startx
+leftwm startx
+startx leftwm
+leftwm
+ps
+htop
+kwin
+HELP
+lol
+lefthk-worker
+ls
+lefthk-worker
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+reboot
+cd /etc/nixos
+hx .
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+nix-collect-garbage
+reboot
+xterm
+leftwm theme
+mkdir -p ~/.config/leftm/themes
+mkdir  ~/.config/leftm/themes
+cd .config
+cd leftwm
+cd themes
+ls
+cd /
+cd .
+ls
+cd ..
+ls
+cd ~
+cd .config
+ls
+cd leftwm
+ls
+mkdir themes
+ls
+cd themes
+ln
+ln --help
+cd ~
+cd std
+mkdir themes
+cd themes
+git clone https://gitlab.com/mWalrus/ascent.git
+ln -s . ~/.config/leftwm/themes/current
+leftwm theme
+which \leftwm theme
+which leftwm theme
+ls
+ln -s ~/std/themes/ascent ~/.config/leftwm/themes/current
+leftwm theme
+cd ..
+ls
+rm themes
+rm -r  themes
+ls
+mkdir themes
+cd themes
+git clone https://github.com/leftwm/leftwm-theme
+cd leftwm-theme
+cargo build --release
+pkg-config
+cargo build --release
+openssl
+cargo build --release
+git clone https://gitlab.com/mWalrus/ascent.git
+git clone https://github.com/b4skyx/leftwm-soothe.git
+cd /
+cd etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+reboot
+bash
+bash
+sudo nix-channel --rollback
+sudo nix-channel --help
+sudo nix-channel --list
+sudo nix-channel --update
+sudo nix profile
+nix profile
+nix-profile
+cd etc/nixos
+cd /etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild switch
+reboot
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+nix search
+nix search ok
+nix
+nix --help
+nix build
+nix search wind
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+hx .
+nix flake
+nix help
+nix search help
+nix search help --extra-experimental-features
+nix search --extra-experimental-features
+nix search --extra-experimental-features ok
+nix hash
+nix hash help
+nix hash --help
+nix build --help
+nix search --help
+nix search nixpkgs blender
+nix search nixpkgs blender --extra-experimental-features flakes
+cd etc/nixos
+cd /etc/nixos
+ls
+cd rust
+cd aoc2022
+ls
+cargo new day12-2
+cd day12-2
+hx .
+neofetch
+cd /etc/nixos
+hx .
+sudo hx .
+sudo nixos-rebuild switch
+cd rust
+cd aoc2022
+ls
+cd day12-2
+cd rust
+mkdir playground
+cd playground
+sudo hx .
+sudo nixos-rebuild switch
+nix-collect-garbage
+hx .
+git add -A
+git commit "day12 2"
+git commit -a "day12 2"
+git commit --help
+git commit -s "day12 2"
+cd rust
+cd aoc2022
+ls
+cd day12-2
+ls
+hx ..
+hx .
+cargo run
+hx .
+git add -A
+git list
+git --help
+cd ..
+git add -A
+ls
+git commit -s "day12 2"
+git commit --help
+git commit -am "day12 2 start"
+git config --global user.email "beryshadow@gmail.com"
+git commit -am "day12 2 start"
+git push origin master
+git diff
+git --help
+git pull origin master
+git diff
+git config pull.rebase false
+git pull origin master
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+cd rust
+cd aoc2022
+cd day12-2
+hx .
+git commit -am "day12 2 progress 1"
+hx .
+sudo nix-channel --update
+sudo nix-channel --list
+nix-env -u ‘*’
+nix-env -u --HELP
+nix-env -u --help
+nix-env -u -A
+nix-env -u
+nix-env -u '*'
+nix --help
+nix upgrade-nix
+nix doctor
+nixos-rebuild --help
+nixos-rebuild --upgrade
+nixos-rebuild build --upgrade
+cd rust
+cd playground
+cargo new rounding
+cd rounding
+hx .
+ls
+hx .
+cd ..
+cd..
+cd ..
+cd aoc2022
+ls
+cd day12-2
+ls
+cd ..
+cd day12
+hx .
+cd ..
+cd day12-2/
+hx .
+cd ..
+cd /home/berys/.config/
+cd alacritty/
+hx .
+cd rust
+cd layout_alg
+hx .
+cargo run
+ls
+cd rust
+cd aoc2022
+git add -A
+git commit -m "merging"
+git push origin master
+git fetch
+git diff
+git push origin master
+git pull 
+git diff
+git push origin master
+cd ..
+cd aoc2022
+ls
+git push origin master
+hx .
+git pull origin master
+hx .
+git add -A
+git commit
+git push origin master
+synclient -l
+reload
+reboot
+cd /etc/nixos
+sudo hx .
+sudo nix-rebuild switch
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+hx .
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+synclient -l
+synclient
+xinput
+xinput --list-props "DELL092B:00 06CB:CCA8 Touchpad"
+cd /etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+ls
+sudo hx .
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+cd /etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild switch
+cd /etc/nixos
+sudo hx .
+ls
+reboot
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+cd /etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild switch
+nix-collect-garbage
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+nix-collect-garbage
+sudo nixos-rebuild --upgrade switch
+man configuration.nix
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+reboot
+neofetch
+sway
+shutdown
+man sutdown
+man shutdown
+shutdown now
+cd rust
+cd helix
+git pull origin master
+cargo install --path helix-term
+sudo
+sudo nixos-rebuild --upgrade switch
+oh-my-posh
+reboot
+cd rust
+ls
+cd helix
+git pull origin master
+cd rust
+cd helix
+git pull origin master
+ping github.com
+ping 192.168.92.1
+ping "github.com"
+ping 'github.com'
+ping
+man ping
+git pull origin master
+cargo install --locked --path helix-term
+sudo cargo install --locked --path helix-term
+ls
+hx
+hx -V
+ls
+cd /etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+cd arduino
+mkdir arduino
+cd arduino
+git clone https://github.com/Beryshadow/full_project.git
+ls
+cd full_project
+hx .
+git push origin master
+git commit -m "blink"
+hx .
+git list
+git --help
+git ls-files
+git commit -m "blink"
+git push origin master
+cd .
+cd ..
+git push origin master
+git commit -m "blink"
+ls
+cd full_project
+ls
+git innit
+git init
+ls
+git push origin master
+git commit -m "blink"
+git add full_project.ino
+git commit -m "blink"
+git push origin master
+cd rust
+cd helix
+git pull origin master
+cargo install --locked --path helix-term
+ls
+cd .
+cd ..
+ls
+cd ..
+ls
+rm -r target
+sudo rm -r target
+ls
+sudo cargo install --locked --path helix-term
+sudo nixos-rebuild --upgrade switch
+ls
+hx
+hx -V
+cd ..
+hx .
+shutdown
+shutdown now
+hy
+nix-shell -p minecraft-server
+export NIXPKGS_ALLOW_UNFREE=1
+NIXPKGS_ALLOW_UNFREE=1
+$ export NIXPKGS_ALLOW_UNFREE=1
+etc/nixos
+quit
+cd /etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+minecraft
+server
+ls
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+nix-collect-garbage
+drive
+cd /etc/nixos
+hx .
+rclone mount "drive:" /home/berys/drive
+rclone config reconnect drive: "drive:"
+rclone config reconnect drive: 
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+cd /home/berys/rust/helix
+git pull origin master
+cargo install --locked --path helix-term
+mvn
+jdk
+jav
+java
+java --version
+where java
+which java
+sudo cargo install --locked --path helix-term
+ls
+java
+java -jar multipaper-1.19.2-37.jar
+ping localhost:35353
+ping 'localhost:35353'
+ping hypixel.net
+ipconfig
+ip
+java -jar multipaper-1.19.2-37.jar
+ls
+java -jar MultiPaper-Master-2.10.1-all.jar
+launch
+run launch
+start launch
+cd .
+java -jar multipaper-1.19.2-37.jar
+cd std
+cd Minecraft
+ls
+cd Server1
+java -Xms128M -Xmx512M -jar server.jar 53535
+java -jar multipaper-1.19.2-37.jar
+java -Xms128M -Xmx512M -jar server.jar 35353
+ls
+java -jar velocityloadbalancer-1.1.jar
+ls
+java -jar server.jar
+hx .
+ls
+cd ..
+ls
+cd master
+java -jar server.jar
+java -jar server.jar
+hx .
+ls
+cd master
+ls
+cd ..
+cd server1
+hx .
+cd /etc/nixos
+hx .
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+ifconfig
+iptables -l
+iptables -L
+sudo iptables -L
+sudo iptables -A INPUT -p tcp --dport 25565 -j ACCEPT
+sudo iptables -L INPUT --line-numbers
+ifconfig
+sudo iptables -A INPUT -p tcp --dport 8080 -j ACCEPT
+reboot
+ls
+cd std
+cd Minecraft
+ls
+cd master
+sudo iptables -A INPUT -p tcp --dport 35353 -j ACCEPT
+firewall
+sudo iptables -A INPUT -p udp --dport 35353 -j ACCEPT
+sudo iptables -A INPUT -p udp --dport 25565 -j ACCEPT
+sudo iptables -A INPUT -p udp --dport 8000 -j ACCEPT
+sudo iptables -L INPUT --line-numbers
+sudo iptables -A INPUT -p udp --dport 8000 -j ACCEPT
+sudo iptables -L INPUT --line-numbers
+sudo iptables -A INPUT -p tcp --dport 8000 -j ACCEPT
+sudo iptables -A INPUT -p tcp --dport 25565 -j ACCEPT
+cd /
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+sudo iptables -L INPUT --line-numbers
+java -jar server.jar
+java -jar server.jar
+java -jar server.jar
+sudo iptables -D INPUT 
+sudo iptables -D INPUT 1
+sudo iptables -D INPUT 2
+sudo iptables -L INPUT --line-numbers
+sudo iptables -D INPUT 1
+sudo iptables -L INPUT --line-numbers
+sudo iptables -A INPUT -p udp --dport 25565 -j ACCEPT
+cd /etc/nixos
+hx .
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+nix-collect-garbage
+ifconfig
+ss
+nmap
+cd /etc/nixos
+sudo hx .
+nmap
+sudo nixos-rebuild switch
+sudo nixos-rebuild --upgrade switch
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+sudo nixos-rebuild -upgrade switch
+sudo nixos-rebuild  switch
+nix-collect-garbage
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+nmap
+nmap -sn 192.168.86.0/128
+nmap -sn 192.168.86.3/128
+nmap -sn 192.168.86.3/24
+nmap -sn 192.168.86.0/24
+nmap -sn 192.168.86.3/24
+nmap 192.168.86.1
+nmap 192.168.86.30
+nmap -Pn 192.168.86.30
+ifconfig
+nmap 172.23.87.1
+nmap 172.23.87.0
+nmap 172.23.80.0
+nmap 172.23.80.1
+ifconfig
+nmap 172.23.95.1
+nmap 172.23.95.255
+nmap 172.23.87.82
+nmap -Pn 172.23.87.82
+neofetch
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+cd rust
+cd helix
+git pull origin master
+sudo cargo install --locked --path helix-term
+sudo hx .
+sudo cargo install --locked --path helix-term
+sudo nixos-rebuild --upgrade switch
+hx .
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+cd /etc/nixos
+hx .
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+uname -r
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+uname -r
+reboot
+cd /mnt
+oh-my-posh
+which hx
+which oh-my-posh
+rg 'alacritty'
+reboot
+ssh
+ssh localhost
+cd /etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+nix-collect-garbage -d
+cd /etc/nixos
+hx .
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+hx
+hx .
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+systemctl 
+ssh
+openssh
+open
+ssh close
+systemctl stop sshd.system
+systemctl stop sshd
+ls
+ifconfig
+reboot
+ssh localhost
+ifconfig
+ls
+processes
+help
+cd minecraft
+ls
+cd std
+ls
+cd Minecraft
+ls
+cd master
+ls
+/bin/sh ./launch.sh
+ls
+cd ..
+cd ...
+ls
+hx .
+clear
+ls
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+shutdown now
+neofetch
+reboot
+cd /etc/nixos
+sudo hx .
+shotdown now
+shutdown now
+ping mc.novotop.dev
+nmap
+nmap -sO
+sudo nmap -sO
+ifconfig
+sudo nmap -sO 172.23.87.1
+sudo nmap -sO 172.23.87.0
+sudo nmap -sO 172.23.87.255
+sudo nmap -sO 172.23.87.82
+sudo nmap -Pn 172.23.87.82
+sudo nmap -Pn 172.23.87.1
+ssh-keygen
+ssh bery@server
+ssh bery@server -p 44443
+ls
+ssh -Y bery@192.168.86.35 -p 44443
+ssh -X bery@192.168.86.35 -p 44443
+rsync
+ls
+cd std
+ls
+mkdir test
+cd test
+ls
+rsync -r bery@192.168.86.35:/home/bery/minecraft/server1 -p 44443
+rsync -r bery@192.168.86.35:/home/bery/minecraft/server1/server.properties -p 44443
+ssh bery@192.168.86.35 -p 44443
+reboot
+ssh bery@192.168.86.35 -p 44443
+ls
+ssh bery@173.38.210 -p 44443
+ssh bery@173.35.38.210 -p 44443
+shutdown now
+cd /etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild --upgrade switch reboot
+sudo nixos-rebuild --upgrade switch -h
+sudo nixos-rebuild -h
+sudo nixos-rebuild --h
+sudo nixos-rebuild --help
+sudo nixos-rebuild --upgrade switch reboot
+sudo nixos-rebuild --upgrade switch
+reboot now
+reboot
+cd /etc/nixos
+ls
+sudo hx .
+ls
+rustup update
+cd rust
+ls
+cd helix
+ls
+git pull origin master
+ls
+cargo install --path helix-term
+sudo cargo install --path helix-term
+sudo nixos-rebuild --upgrade switch
+ls
+rm -r target
+sudo rm -r target
+ls
+sudo cargo install --path helix-term
+rustup -h
+rustup show
+cd /home/berys/rust/helix/rust-toolchain.toml
+cd /home/berys/rust/helix
+ls
+hx .
+sudo cargo install --path helix-term
+hx .
+:
+hx -V
+sudo cargo install --path helix-term
+cd rust
+cd helix
+sudo cargo install --path helix-term
+sudo rm -r target
+sudo cargo install --path helix-term
+ls
+java
+java -version
+which java
+ls
+java -version
+which java
+cd /run/current-system/sw/bin/java
+cd /run/current-system/sw/bin
+ls
+cd etc/nixos
+cd /etc/nixos
+sudo hx .
+ls
+cd java
+ls
+hx .
+java -health
+sudo nixos-rebuild --upgrade switch
+hx -healt
+hx -health
+hx --health
+java -version
+java8
+openjdk
+cd /run/current-system/sw/lib/openjdk
+ls
+cd bin
+ls
+cd ..
+hx .
+cd /etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+ /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:42057 --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+ cd /home/berys/java/comp ; /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:41801 --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+ cd /home/berys/java/comp ; /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:36405 --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+ /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+ls
+java comp.jar
+java -jar comp.jar
+java -jar comp.jar --enable-preview
+java -jar
+java -jar comp
+java -jar comp.jar
+java -jar --enable-preview comp.jar
+ cd /home/berys/java/comp ; /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+ /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+cd /etc/nixos
+ls
+hx .
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+cd /home/berys/.vscode/extensions/ms-vscode.cpptools-1.13.9-linux-x64/bin
+ls
+/home/berys/.vscode/extensions/ms-vscode.cpptools-1.13.9-linux-x64/bin/cpptools
+/home/berys/.vscode/extensions/ms-vscode.cpptools-1.13.9-linux-x64/bin
+ls
+cd /home/berys/.vscode/extensions/ms-vscode.cpptools-1.13.9-linux-x64/bin
+ls
+cpptools
+./cpptools
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+ls
+sudo hx .
+cd /etc/nixos
+sudo nixos-rebuild --upgrade switch
+sudo hx .
+ls
+hx --health
+ /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+java -v
+java -version
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+hx --health
+ /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+ cd /home/berys/java/comp ; /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+ /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+ cd /home/berys/java/comp ; /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+ /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+ cd /home/berys/java/comp ; /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+ /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+7
+ /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp/bin Main 
+ /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/Comp2/bin Main 
+ cd /home/berys/java/Comp2 ; /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/Comp2/bin Main 
+ /usr/bin/env /run/current-system/sw/lib/openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /home/berys/java/comp3/bin Main 
+1028/64
+let i = 1028/64
+let i = 1028/64;
+ssh bery@173.35.38.210 -p 44443
+cd rust
+cd helix
+ls
+git pull origin master
+git stash
+git pull origin master
+sudo cargo install --path helix-term
+sudo nixos-rebuild --upgrade switch
+element
+element 
+reboot
+2048
+fill 
+fill help
+fill -help
+fill -h
+SHUTDOWN NOW
+SHUTDOWN NOW!
+shutdown now
+element
+npm
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+npm
+npm config list
+npm set init-author-name "Beryshadow"
+npm set init-author-email "beryshadow@gmail.com"
+npm set init-license "MIT"
+npm i -g create-js-project
+npm install -g npm@9.6.0
+cd /home/berys/js
+ls
+cd firstproject
+ls
+npm init
+hx .
+npm run
+node index.js
+hx .
+node index.js
+cd rust
+ls
+cd helix
+git pull origin master
+cargo install --path helix-term
+cargo install --path helix-term --force
+sudo cargo install --path helix-term --force
+sudo nixos-rebuild --upgrade switch
+nix-collect-garbage -d
+mkdir web
+cd web
+gh clone web
+gh repo clone web
+gh repo list
+gh repo clone web-exploration
+cd web
+ls
+cd web-exploration
+ls
+neofetch
+rustup update
+rustup component add rust-analyzer
+cd web
+cd web-exploration
+git pull origin master
+cd rust
+ls
+cd aoc2022
+ls
+cd day12-2
+ls
+hx .
+cd ..
+ls
+cargo new day13
+ls
+cd day13
+cd ..
+git pull origin master
+git stash
+git pull origin master
+git pull origin master -force
+git pull origin master --force
+rm -r day13
+git pull origin master --force
+ls
+cd day13
+hx .
+cargo run
+cargo test
+cd rust
+cd helix
+ls
+git pull origin master --force
+ls
+cargo install --path helix-term --force
+sudo nixos-rebuild --upgrade switch
+sudo cargo install --path helix-term --force
+sudo nixos-rebuild --upgrade switch
+ls
+config nu
+nushell
+config nu
+ls
+hooks
+hook
+cd etc/nixos
+cd /etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild --upgrade switch
+reboot
+ssh bery@173.35.38.210 -p 44443
+ssh bery@192.168.86.200 -p 44443
+cd /etc/nixos
+ls
+cd ~
+config nu
+ssh bery@192.168.86.200 -p 44443
+cd /etc/nixos
+hxx .
+cd /etc/nixos
+ls
+config nu
+ls
+neofetch
+oh-my-posh
+oh-my-posh init
+oh-my-posh init nu --config /home/berys/config/bery.omp.json
+oh-my-posh init nu --config /home/bery/config/bery.omp.json
+oh-my-posh init nu --config /home/bery/std/config/bery.omp.json
+ssh
+ssh bery@192.168.86.200 -p 44443
+openssh
+ssh keys
+cd /etc/nixos
+hx
+hx .
+cd /root/keysfile
+sudo cd /root/keysfile
+ls
+cd /root
+sudo hx .
+nixos-rebuild build --upgrade
+nixos-rebuild build switch --upgrade
+nixos-rebuild switch --upgrade
+hx .
+sudo su
+config nu
+nixos-rebuild switch --upgrade
+hx .
+cd /etc/nixos
+sudo hx .
+nixos-rebuild switch --upgrade
+ls
+q
+quit
+leave
+ssh bery@192.168.86.200 -p 44443
+ssh bery@173.35.38.210 -p 44443
+ls
+hx .
+ls
+cd rust
+ls
+cd helix
+git pull origin master --force
+cargo install --path helix-term --force
+ls -al ~/.ssh
+ssh-add -l
+ssh-add
+ssh-agent
+ssh-add
+ssh-agent -h
+ssh-agent -s
+ssh-agent -c
+ssh-agent -a
+ssh-agent -E
+ssh-agent -t
+ssh -h
+ssh -L
+ssh -E
+cd etc/nixos
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+ssh bery@173.35.38.210 -p 44443
+q
+ssh bery@192.168.86.200 -p 44443
+ssh bery@192.168.86.200 -p 44443
+quit
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+hx
+cd /home/berys/rust/helix
+cd /home/berys/rust
+cd /home/bery/rust/helix
+ls
+git pull origin master --force
+cargo install --path helix-term --force
+hx
+config nu env
+hx .
+hx --health
+hx --help
+hx -g fetch
+hx -g build
+passwordAuthentication = false;
+hx runtime
+hx .
+hx
+nix-collect-garbage -d
+sudo nixos-rebuild switch --upgrade
+ls
+cd home
+ls
+hx .
+zellij
+sys 
+port
+mcat
+math
+math pi
+math e
+math tau
+ls
+math variance ls
+ls
+let i = ls
+math variance
+math variance(|source ~/.oh-my-posh.nu|)
+i math variance
+i
+print i
+print $i
+hx --health
+cd /etc/nixos
+hx .
+nixos-rebuild switch --upgrade
+hx --health
+hx .
+hx
+cd /home/bery/rust/helix
+ls
+cd /home/bery/.config
+ls
+cd helix
+ls
+ln -s config.toml /root/.config/helix
+hx
+hx .
+cd /root/.config/helix
+ls
+rm .
+rm config.toml
+cd /home/bery/.config
+cd helix
+ls
+cp -s config.toml /root/.config/helix
+cp config.toml /root/.config/helix
+hx
+hx .
+cp runtime /root/.config/helix
+cp runtime /root/.config/helix -r
+hx .
+hx --health
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+nixos-rebuild switch --upgrade
+sudo hx .
+nixos-rebuild switch --upgrade
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+reboot
+ls
+root
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+ls
+cd /etc/nixos
+hx .
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+ls
+nmcli dev wifi
+sudo nixos-rebuild switch --upgrade
+sudo nix-channel --update
+sudo nixos-rebuild switch --upgrade
+sudo nix-channel --list
+nix-env -q
+sudo nixos-rebuild switch --upgrade
+su sudo
+sudo nixos-rebuild switch --upgrade
+nix-collect-garbage -d
+reboot
+-u ssh
+ssh -u
+ssh -E
+ssh -b
+ssh -L
+man ssh
+sudo nixos-rebuild switch --upgrade
+ls
+cd rust
+cd helix
+git pull origin master --force
+sudo cargo install --path helix-term --force
+git stash
+git pull origin master --force
+sudo cargo install --path helix-term --force
+sudo nixos-rebuild switch --upgrade
+rustup update
+sudo cargo install --path helix-term --force
+ls
+rm -rf target
+sudo rm -rf target
+sudo cargo install --path helix-term --force
+git stash "unused"
+git stash
+ls
+cd ..
+ls
+cd helix
+cd rust
+cd helix
+ls
+git pull origin master --force
+git pull origin main --force
+git pull origin master --force
+sudo cargo install --path helix-term --force
+ls
+cd ..
+gh repo clone helix-editor/helix
+gh auth login
+gh repo clone helix-editor/helix
+cd helix
+sudo cargo install --path helix-term --force
+hx --health
+hx -V
+nushell config
+nu config
+config env
+sudo cargo install --path helix-term --force
+hx .
+config env
+hx .
+hx
+man hx
+config env
+hx
+hx -V
+ls
+nix-collect-garbage -d
+oh-my-posh init nu --config /home/bery/std/config/bery.omp.json
+nixos-rebuild switch --upgrade
+sudo nixos-rebuild switch --upgrade
+nix-env -u '*'
+nix-store -h
+nix-store --optimise
+nix-store --help
+nix-store -gc
+nix-store --gc
+nix-store --update
+sudo nix-channel --update
+sudo nix-channel --update
+sudo nix-env -u
+sudo nix-env -u '*'
+nix-store -d
+nix-store --delete
+neofetch
+ls
+cd /etc/nixos
+sudo hx .
+sudo hx --health
+sudo hx --grammar fetch
+sudo hx --grammar build
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+nix-store -d
+nix-store --delete
+nix-store --gc
+nix-collect-garbage -d
+nix-store --optimise
+cd rust
+ls
+quit
+rustup update
+sudo nixos-rebuild switch --upgrade
+gradekew
+gradelew
+jdk
+java -version
+java gradlew
+gradlew
+nix-env -iA nixos.gradle
+gradlew
+java gradlew
+gradlew build
+java
+java -version
+gradle
+gradlew
+ls
+mkdir java
+cd java
+gh repo clone PaperMC/Folia
+gradle
+ls
+cd Folia
+gradle
+gradlew applyPatches
+gradle applyPatches
+gradlew applyPatches
+gradle applyPatches
+gradlew applyPatches
+git config --global user.email "beryshadow@gmail.com"
+git config --global user.name "Ryan B"
+shell
+run gradlew applyPatches
+nu gradlew applyPatches
+nu gradlew
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+java -Xms2G -Xmx2G -jar paper.jar --nogui
+java -Xms2G -Xmx2G -jar paper.jar
+cd /etc/nixos
+hx .
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+java -Xms2G -Xmx2G -jar paper.jar
+java -Xms8G -Xmx8G -jar paper.jar
+cd java
+nix-channel --list
+sudo nix-channel --update
+sudo nixos-rebuild switch --upgrade
+nix update oh-my-posh
+nix --update oh-my-posh
+nix --upgrade oh-my-posh
+cd /etc/nixos
+hx .
+nix --upgrade oh-my-posh
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+ls
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+-I
+hi
+nix-channel --list
+hx .
+nixos-rebuild switch --upgrade
+nixos-unstable
+nix-instantiate --eval -E '<nixos-unstable>'
+sudo nix search -u
+nix search -u
+hx .
+nix search -u
+nixos-rebuild switch --upgrade\
+nixos-rebuild switch --upgrade
+nix-env -iA unstable.oh-my-posh
+nix-env -iA nixos-unstable.oh-my-posh
+hx .
+nixos-rebuild switch --upgrade\
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+oh-my-posh -h
+oh-my-posh
+cd /etc/nixos
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+oh-my-posh
+oh-my-posh --version
+oh-my-posh disable notice
+oh-my-posh
+oh-my-posh notice
+oh-my-posh disable notice
+oh-my-posh init
+oh-my-posh print
+oh-my-posh version
+oh-my-posh cache
+oh-my-posh cache path
+oh-my-posh enable notice
+ls
+sudo nixos-rebuild switch --upgrade
+cd java
+ls
+cd Folia
+gradle
+git pull origin master --force
+/gradlew applyPatches
+gradlew applyPatches
+gradlew
+gradle
+gradlew applyPatches
+gradle applyPatches
+run.sh
+start run.sh
+ls
+hx .
+source run.nu
+source run.nu
+ifconfig
+cd /etc/nixos
+ls
+sudo hx .
+sudo iptables -L
+source run.nu
+cd minecraft
+ls
+nu run.nu
+nu -e
+nu -h
+nu -i run.nu
+gh repo clone PaperMC/Paper
+ls
+cd Paper
+gradle applyPatches
+mariadb
+gradle createReobfBundlerJar
+cd /etc/nixos
+ls
+hx .
+nixos-rebuild switch --upgrade
+cd /etc/nixos
+ls
+hx .
+mysql
+sql
+mysql
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+hx .
+nixos-rebuild switch --upgrade
+hx .
+mysql
+mysql -u root -p
+source run.nu
+mariadb
+mariadb -u root -p
+ls
+mkdir secrets
+sudo mkdir secrets
+cd secrets
+ls
+sudo hx .
+ls
+hx .
+nixos-rebuild switch --upgrade
+mariadb -u root -p
+source run.nu
+systemctl status mssql-server
+systemctl status mysql-server
+systemctl status mysql
+mariadb -u root -p
+sudo grep 'temporary password' /var/log/mysqld.log
+mariadb -u root -p
+mariadb -u root
+mysql -u root -p
+hx .
+reboot
+mariadb -u root -p
+mariadb -h
+mariadb --help
+cd /etc/nixos
+hx .
+sudo hx .
+nixos-rebuild switch --upgrade
+ls
+cd keys
+ls
+cd keys
+ls
+hx .
+ls
+sudo hx .
+nixos-rebuild switch --upgrade
+mariadb -u root -p
+mysql -u root -p
+mariadb -u root -p
+mysqldump --defaults-extra-file=/run/keys/mysql.password
+mysqldump --help
+hx .
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+ls
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+reboot
+mariadb -u root -p
+mariadb
+mariadb -u root -p
+source run.nu
+cd ..
+cd minecraft
+ls
+source run.nu
+git pull origin master --force
+gradle applyPatches
+gradle createReobfBundlerJar
+cd java
+cd Paper
+git pull origin master --force
+gradle applyPatches
+gradle createReobfBundlerJar
+cd minecraft2
+source run.nu
+restart
+ls
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+source run.nu
+hx .
+source run.nu
+ls
+source run.nu
+cd /etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+java
+java -version
+java --version
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+java
+java --version
+java --version
+neofetch
+df
+dfdf
+df
+mount /dev/sda1 /run/media/bery
+sudo mount /dev/sda1 /run/media/bery
+cd /etc/nixos
+sudo nixos-generate-config
+sudo nixos-rebuild switch --upgrade
+cd /etc/nixos
+hx .
+df
+df help
+blkid
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+ls
+cd lost+found
+sudo
+cd lost+found
+ls
+cd ..
+rm -rf lost+found
+ls
+cd ..
+cd /bigdrive
+mkdir lost+found
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+hx .
+hx --health
+sudo hx --health nix
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+ls
+cd minecraft2
+sudo -u www-data php /var/www/nextcloud/occ user:resetpassword admin
+neofetch
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+cd minecraft2
+source run.nu
+ls
+cd minecraft2
+ls
+alacritty help
+alacritty --hold -e source run.nu
+alacritty --hold -e
+alacritty --hold -e e
+alacritty --hold -e echo "bpb"
+alacritty --hold
+alacritty source run.nu
+alacritty -e source run.nu
+shell
+neofetch
+xterm help
+xterm -h
+xterm -e source run.nu
+xterm -e "source run.nu"
+zellij
+exit
+ssh bery@192.168.86.200 -p 44443
+ls
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+zellij
+zellij attach
+ls
+cd minecraft2
+zellij
+exit
+ssh bery@192.168.86.200 -p 44443
+source run.nu
+exit
+zellij attach
+exit
+ifconfig
+ls
+cd minecraft2
+zellij
+quit
+exit
+source run.nu
+zellij attach
+exit
+zellij
+exit
+systemctl status ssh
+systemctl status openssl
+systemctl status ssl
+systemctl status list
+systemctl status
+systemctl status sshd
+systemctl man
+systemctl -h
+systemctl stop sshd
+ls
+cd minecraft2
+cd /etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+ssh bery@192.168.86.200 -p 44443
+ssh -keygen
+ssh keygen
+ssh -h
+ssh-keygen
+zellij -h
+zellij run cd /home/bery/minecraft2/ source run.nu
+zellij run --cd /home/bery/minecraft2/ source run.nu
+zellij run -- cd /home/bery/minecraft2/ source run.nu
+zellij -- cd /home/bery/minecraft2/ source run.nu
+cd minecraft2
+ls
+zellij
+cd java
+ls
+cd Paper
+ls
+git pull origin master --force
+gradle applyPatches
+gradle createReobfBundlerJar
+source run.nu
+zellij attach
+java preview_OptiFine_1.20.1_HD_U_I5_pre4.jar
+cd ls
+ls
+java preview_OptiFine_1.20.1_HD_U_I5_pre4.jar
+java -jar preview_OptiFine_1.20.1_HD_U_I5_pre4.jar
+java --version
+cd lawless
+zellij
+zellij attach
+source run.nu
+quit
+exit
+zellij attach malicious-baby
+quit
+exit
+zellij attach
+source run.nu
+cd lawless
+zellij
+exit
+source run.nu
+exit
+zellij attach
+ls
+cd lawless
+source run.nu
+mariadb -u root -p
+cd /etc/nixos
+ls
+sudo hx .
+cd java
+sudo nixos-rebuild switch --upgrade
+cd Paper
+ls
+gradle applyPatches
+git pull origin master --force
+gradle applyPatches
+gradle createReobfBundlerJar
+ls
+cp lawless testserver -r
+ls
+cd testserver
+ls
+hx .
+rm -rf world
+rm -rf world_nether
+source run.nu
+hx .
+source run.nu
+hx ,
+hx .
+ls
+cd config
+ls
+hx ,
+hx .
+source run.nu
+cd ..
+source run.nu
+quit
+exit
+mariadb -u root -p
+cd java
+cd Folia
+git pull origin master --force
+gradle applyPatches
+gradle createReobfBundlerJar
+cd ..
+ls
+cd testserver
+ls
+cd java
+ls
+gh repo clone PurpurMC/Purpur
+ls
+cd Purpur
+ls
+gradle applyPatches
+gradle createReobfBundlerJar
+./gradlew applyPatches
+java --version
+cd testserver
+gradle createReobfBundlerJar
+cd ..
+cd java
+cd Purpur
+gradle createReobfBundlerJar
+source runfolia.nu
+cd ..
+cd lawless
+ls
+source runpurpur.nu
+restart
+source runpurpur.nu
+cd lawless
+ls
+source runpurpur.nu
+sudo nixos-rebuild switch --upgrade
+restart
+reboot now
+sudo reboot now
+cd lawless
+ls
+source runpurpur.nu
+neofetch
+cd lawless
+ls
+cd lawless
+hx .
+ls
+hx .
+reboot
+cd lawless
+ls
+source runpurpur.nu
+zellij
+ls
+hx .
+zellij attach
+hx .
+ls
+cd config
+hx .
+cd ..
+hx .
+zellij attach
+hx .
+zellij attach
+exit
+ls
+zellij attach
+exit
+zellij attach
+ls
+cd lawless
+ls
+cd plugins
+cd spartan
+ls
+cd Spartan
+ls
+hx .
+exit
+zellij attach
+exit
+zellij attach
+exit
+ls
+cd rust
+ls
+cd helix
+ls
+git pull origin master --force
+cargo install --path helix-term --force
+rustup update
+sudo nixos-rebuild switch --upgrade
+rustup
+rustup -V
+rustup update
+sudo rustup update
+cargo
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+shell
+ls
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+rustup update
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | nu
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+rustup update
+rustup install
+rustup default nightly
+cargo
+cargo help
+cargo t
+cd ~
+ls
+cd rust
+cargo t
+cd helix
+ls
+cargo t
+cd ..
+ls
+cd layout_alg
+cargo t
+cd ..
+ls
+cd helix2
+ls
+hx .
+ls
+cd runtime
+cargo 
+rustup default stable
+cargo
+cd ..
+hx .
+cargo
+git pull origin master --force
+cargo
+cd ..
+cargo
+cargo default nightly
+rustup default nightly
+sudo cargo install --path helix-term --force -C /helix
+cargo --list
+hx .
+cd helix
+git pull origin master --force
+hx -help
+hx help
+hx --H
+hx --h
+hx --help
+sudo cargo install --path helix-term --force
+hx --health
+helix -V
+helix -v
+hx -v
+hx -V
+hx -V
+hx --grammar fetch
+hx --grammar build
+hx -V
+zellij attach
+which hx
+rm hx
+sudo rm hx
+cd rust
+cd helix
+sudo cargo install --path helix-term --force
+hx
+hx -V
+ls
+cd ..
+ls
+cd lawless
+ls
+cd logs
+ls
+hx .
+exit
+zellij attach
+cd lawless
+ls
+hx .
+zellij attach
+cd lawless
+ls
+zellij
+zellij attach
+cd lawless
+ls
+hx .
+zellij attach
+cd lawless
+hx .
+source runpurpur.nu
+zellij attach
+exit
+zellij attach
+exit
+cd lawless
+hx .
+exit
+cd lawless
+rg 'compression'
+hx server.properties
+exit
+zellij attach
+exit
+zellij attach
+exit
+zellij attach
+exit
+cd lawless
+zellij
+zellij attach
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+ls
+cd ~
+ls
+git clone https://github.com/TeamPiped/Piped-Docker
+ls
+cd Piped-Docker
+rm -rf Piped-Docker
+source runpurpur.nu
+mut x = 0<\n>while $x < 10 {<\n>    print $x<\n>    $x += 1<\n>}
+mut x = 0<\n>while $x < 100 {<\n>    print $x<\n>    $x += 1<\n>}
+time
+time --help
+time %e
+time %S
+time -f %S
+time -f=%s
+date
+date now
+date now +%s 
+date now +%s
+date format
+date format | date now
+date now | date format
+date now | into int
+cd lawless
+source runpurpur.nu
+cd lawless
+source runpurpur.nu
+hx --health
+zellij attach
+source runpurpur.nu
+cd lawless
+source runpurpur.nu
+cd lawless
+source runpurpur.nu
+zellij attach
+cd lawless
+zellij
+source runpurpur.nu
+restart now
+rboot now
+reboot now
+sudo reboot now
+cd lawless
+hx .
+zellij
+hx .
+zellij attach
+exit
+zellij attach
+exit
+zellij attach
+exit
+zellij attach
+exit
+cd lawless
+ls
+zellij attach
+exit
+zellij attach
+exit
+zellij attach
+exit
+zellij attach
+cd plugins
+cd lawless
+cd plugins
+ls
+hx .
+zellij attach
+exit
+zellij attach
+exit
+zellij attach
+exit
+zellij attach
+exit
+zellij attach
+exit
+zellij attach
+source runpurpur.nu
+zellij attach
+exit
+zellij attach
+exit
+zellij attach
+exit
+cd lawless
+hx .
+ls
+hx spigot.yml
+hx bukkit.yml
+hx purpur.yml
+hx server.properties
+exit
+zellij attach
+exit
+zellij attach
+reboot now
+cd lawless
+zellij
+zellij attach
+rg 'macro-smp'
+cd ..
+rg 'macro-smp'
+rg
+rg 'macro-smp' .
+rg '2005'
+cd ..
+rg 'macro-smp'
+rg 'macro'
+rg 'smp'
+rg 'Smp'
+rg '11'
+zellij attach
+cd /etc/nixos
+sudo hx .
+source runpurpur.nu
+zellij attach
+sudo nixos-rebuild switch --upgrade
+neofetch
+reboot
+cd lawless
+ls
+zellij
+zellij attach
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+wg
+wg help
+wg-quick
+wg addconf --help
+wg addconf /home/bery/Downloads/84.conf
+wg addconf "/home/bery/Downloads/84.conf"
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+cd /home/bery/rust
+gh repo clone ah_scanner
+cd ah_scanner
+;s
+ls
+hx .
+rustup default nightly
+cd ..
+cd helix
+ls
+git pull origin master --force
+sudo cargo install --path helix-term --force
+hx
+hx --health
+which hx
+cd ..
+cd ah_scanner
+hx .
+rustup default stable
+cargo --list
+cargo update
+rustup lsp
+cd ..
+git clone https://github.com/rust-lang/rust-analyzer.git && cd rust-analyzer
+git clone https://github.com/rust-lang/rust-analyzer.git
+cd rust-analyzer
+cargo xtask install --server
+cd ..
+cd ah_scanner
+hx .
+rust-analyzer
+rustup component add rust-analyzer
+rust-analyzer
+hx .
+hx --grammar fetch
+hx --grammar build
+hx --health rust
+sudo hx .
+hx .
+sudo hx --health rust
+rm -rf target
+sudo rm -rf target
+cd ..
+cd helix
+cargo install --path helix-term --force
+hx
+cd ..
+cd ah_scanner
+hx --health rust
+hx --grammar fetch
+hx --grammar build
+hx .
+cd rust
+cd ah_scanner
+hx .
+cd /etc/nixos
+hx .
+sudo hx .
+sudo hx --health rust
+sudo hx --health
+hx --health
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+cd rust
+cls
+ls
+cd ah_scanner
+hx .
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+./hx
+hx
+cd ..
+hx
+ls
+cd ah_scanner
+ls
+hx .
+cd ..
+cd helix
+hx .
+hx --health rust
+rm intervals.txt
+cd ..
+cd ah_scanner
+rm intervals.txt
+hx .
+ls
+rm -rf target
+cargo init
+hx --health rust
+hx .
+cd ..
+cargo new hello
+cd hello
+hx .
+which hx
+sudo which hx
+cd ..
+gh repo clone helix-editor/helix
+cd helix
+cargo install --path helix-term --force
+cargo
+ls
+cd ..
+cargo
+cd helix
+cargo install --path helix-term --force
+which cargo
+cargo
+sudo cargo
+sudo cargo install --path helix-term --force
+hx
+sudo hx .
+hx .
+sudo hx .
+hx .
+cd rust
+ls
+cd helix
+hx .
+cd layout_alg
+ls
+cd ..
+cd layout_alg
+hx .
+cd ..
+hx .
+ls
+cd rust-analyzer
+hx .
+cd ..
+hx --health rust
+hx -g fetch
+hx -g build
+hx .
+cd ah_scanner
+nushell env
+nushell
+nu env
+cd rust
+cd ah_scanner
+hx .
+rg 'bery2' 
+hx
+hx --config
+hx --help
+hx --health languages
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+hx
+hx --health languages
+hx -g fetch
+hx -g build
+hx .
+hx
+hx .
+hx
+hx --health
+hx .
+hx
+hx .
+cd rust
+cd ah_scanner
+hx .
+cargo run --release
+cd /etc/nixos
+hx .
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+openssl
+cargo run --release
+rg 'openssl'
+cd ..
+rg 'openssl'
+cargo run --release
+zellij attach
+ls
+cd lawless
+ls
+hx server.properties
+exit
+zellij attach
+ipconfig
+ifconfig
+cd lawless
+hx .
+source runpurpur.nu
+cd lawless
+zellij attach
+hx .
+cd lawless
+zellij attach
+cd lawless
+cd plugins
+hx .
+zellij attach
+hx .
+zellij attach
+source runpurpur.nu
+zellij attach
+cd lawless
+zellij
+zellij attach
+cd /etc/nixos
+ifconfig
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+systemctl stop smb
+systemctl stop samba
+reboot
+samba --version
+systemctl status smbd
+systemctl restart samba
+systemctl status samba
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+samba
+samba --version
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+reboot
+cd /etc/nixos
+sudo hx .
+samba
+smbd
+smbd --version
+smbd --help
+smbd -b
+smbd -h
+smbd --help
+smbd --usage
+smbd --leak-report
+sudo nixos-rebuild switch --upgrade
+reboot
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+hx .
+sudo hx .
+sudo nixos-rebuild switch
+sudo
+sudo hx
+sudo hx 
+samba
+smbd
+cd /run/wrappers/bin/passwd
+cd /run/wrappers/bin
+ls
+cd ..
+ls
+cd home
+ls
+sudo pdbedit -L
+sbmpasswd
+sudo smbpasswd -a bery
+reboot
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+reboot
+zellij attach
+cd lawless
+zellij
+zellij attach
+cd lawless
+zellij
+zellij attach
+cd rust
+cd helix
+git pull origin master --force
+cargo install --path helix-term --force
+cd /etc/nixos
+ls
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+etcher
+etcher --help
+etcher-cli
+hx .
+balena
+balena devices
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+quit
+sudo nixos-rebuild switch --upgrade
+zellij attach
+ls
+cd rust
+cd helix
+cargo install --path helix-term --force
+cd ..
+cargo
+cd helix
+hx .
+ls
+nix-build
+git pull origin master --force
+cargo install --path helix-term --force
+sudo cargo install --path helix-term --force
+hx --health
+cd ..
+ls
+cd ah_scanner
+hx .
+exit
+zellij attach
+rustup update
+cd lawless
+source runpurpur.nu
+zellij
+zellij attach
+sudo nixos-rebuild switch --upgrade
+cd /nix/store/7jzsz7rhz6hsbslcv22s52vkcdj2yrkg-linux-6.4.6/
+ls
+cd bzImage
+cd ..
+ls
+nix-garbage-collector
+nix-garbage-collect
+nix-collect-garbage -d
+sudo nix-collect-garbage -d
+nix store optimize
+nix-store --optimise
+nix-store --optimise
+nix-store --gc --print-roots | grep result
+sudo nix-store --optimise
+nix-store --gc --print-roots | rg result
+nix-store --gc --print-roots
+sudo nix profile wipe-history --profile /tmp/profile --older-than 20d
+sudo nix profile wipe-history --profile /nix/var/nix/profiles/system --older-than 14d
+nix-store --optimise
+sudo nix-store --optimise
+cargo install spacedisplay
+spacedisplay
+sudo spacedisplay
+mcaselector.jar
+mcaselector-2.2.2.jar
+jar mcaselector-2.2.2.jar
+zellij attach
+jar mcaselector.jar --mode delete --world "world" --query "InhabitedTime < 10 seconds"
+jar mcas.jar --mode delete --world "world" --query "InhabitedTime < 10 seconds"
+jar --help
+jar mcas.jar --mode delete --world "world" --query "InhabitedTime < 10 seconds"
+jar mcas.jar
+jar mcas.jar --help
+sudo mcas.jar
+sudo jar mcas.jar
+-jar
+shell
+spacedisplay
+sudo nixos-rebuild switch --upgrade
+java mcas.jar
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+rsync
+rsync -r bery@192.168.86.35:/home/bery/minecraft/server1/server.properties -p 44443
+rsync -r bery@192.168.86.200:/home/bery/minecraft/server1/server.properties -p 44443
+rsync bery@192.168.86.200:/home/bery/minecraft/server1/server.properties -p 44443
+rsync bery@192.168.86.200:44443
+rsync bery@192.168.86.200 -p 44443
+ls
+cd std
+rsync bery@192.168.86.200:/home/bery/lawless/server.properties -p 44443
+rsync -p 44443 bery@192.168.86.200:/home/bery/lawless/server.properties
+rsync -e 'ssh -p 44443' bery@192.168.86.200:/home/bery/lawless/server.properties
+rsync -e 'ssh -p 44443' bery@192.168.86.200:/home/bery/lawless/server.properties .
+ls
+cd rust
+ls
+cd helix
+ls
+git pull origin master --force
+cargo install --path helix-term --force
+sudo cargo install --path helix-term --force
+hx --health
+cd ..
+ls
+cd ah_scanner
+hx .
+exit
+cd rust
+cd helix
+git pull origin master --force
+cargo install --path helix-term --force
+sudo cargo install --path helix-term --force
+hx
+cd rust
+cd helix
+hx .
+sudo hx .
+zellij attach
+nu config
+config nu
+oh-my-posh init
+oh-my-posh init nu --config /home/bery/std/config/bery.omp.json
+nu -h
+nu -V
+nu -v
+ls
+source ~/.oh-my-posh.nu
+config nu
+config env
+hx
+helix
+hx
+cargo
+hx
+config nu
+let-env PATH = ($env.PATH | append "/home/bery/.cargo/bin")<\n>let-env PATH = ($env.PATH | append "/run/wrappers/bin")<\n>let-env PATH = ($env.PATH | append "/home/bery/.nix-profile/bin")<\n>let-env PATH = ($env.PATH | append "/etc/profiles/per-user/bery/bin")<\n>let-env PATH = ($env.PATH | append "/nix/var/nix/profiles/default/bin")<\n>let-env PATH = ($env.PATH | append "/run/current-system/sw")<\n>let-env PATH = ($env.PATH | append "/home/bery/rust/helix/target/release/hx")
+help
+config env
+ls | where type == dir | par-each { |it|<\n>    { name: $it.name, len: (ls $it.name | length) }<\n>}
+cd ..
+ls | where type == dir | par-each { |it|<\n>    { name: $it.name, len: (ls $it.name | length) }<\n>}
+sudo ls | where type == dir | par-each { |it|<\n>    { name: $it.name, len: (ls $it.name | length) }<\n>}
+nu -h
+shells
+n
+g
+p
+n
+cd /etc/nixos
+n
+shells
+enter /home/bery
+shells
+n
+b
+n
+ls
+cd rust
+n
+ls
+cd helxi
+cd helix
+ls
+git pull origin master --force
+hx servi
+neofetch
+help
+ls | where type == dir | par-each { |it|<\n>    { name: $it.name, len: (ls $it.name | length) }<\n>} | sort-by lenght
+ls | where type == dir | par-each { |it|<\n>    { name: $it.name, len: (ls $it.name | length) }<\n>}
+ls | where type == dir | par-each { |it|<\n>    { name: $it.name, len: (ls $it.name | length) }<\n>} | sort-by len
+ls | where type == dir | par-each { |it|<\n>    { name: $it.name, len: (ls $it.name | length) }<\n>} | sort-by len --reverse
+ls | where type == file | par-each { |it|<\n>    { name: $it.name, len: (ls $it.name | length) }<\n>} | sort-by len --reverse
+ls
+cd lawless
+ls
+ls | where type == file | par-each { |it|<\n>    { name: $it.name, len: (ls $it.name | length) }<\n>} | sort-by len --reverse
+cd rust
+cargo new scraper_tut
+cd scraper_tut
+ls
+hx .
+cargo run
+nix-shell
+cargo run
+hx .
+6240.0 * 1.1
+zellij attach
+restart now
+reboot now
+sudo reboot now
+ls
+hx --health json
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+hx --health json
+ls
+cd rust\
+cd rust
+ls
+cargo new neu_api_sort
+cd neu_api_sort
+hx .
+cargo add serde_json
+hx .
+cargo run
+hx .
+cd rust
+cd neu_api_sort
+sudo hx .
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx ,
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+cd neu_api_sort
+cd rust
+cd neu_api_sort
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo fix
+cargo fix --allow-dirty
+cargo clippy
+cargo clippy -fic
+cargo clippy --help
+cargo clippy --fix
+cargo clippy --fix -A --allow-dirty
+cargo clippy --fix --allow-dirty
+cargo clippy -A
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+cd neu_api_sort
+cd rust
+cd neu_api_sort
+cargo run
+cd /etc/nixos
+hx .
+sudo hx .
+openssl
+pkg-config
+pkg-config
+openssl.pc
+openssl pc
+openssl pc
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+cd rust
+cd neu_api_sort
+cargo run
+$OPENSSL_DIR
+$env.OPENSSL_DIR
+echo $env.OPENSSL_DIR
+echo $env.EDITOR
+cd rust
+cd neu_api_sort
+nix-shell -p openssl pkg-config -run nu cargo run
+cargo run
+nu -h
+nu config
+config nu
+nix-shell -p openssl pkg-config --run nu cargo run
+nix-shell -p openssl pkg-config --run nu
+nix-shell -p openssl pkg-config --run nu && cargo run
+nix-shell -p openssl pkg-config --run nu and cargo run
+exit
+nix-shell -p openssl pkg-config --run nu
+exit
+nix-shell -p openssl pkg-config --run nu cargo run
+exit
+nix-shell -p openssl pkg-config --run nu and cargo run
+cargo run
+cd rust
+cd neu_api_sort
+cargo run
+nix-shell -p openssl pkg-config --run nu and cargo run
+cargo run
+nix-shell -p openssl pkg-config --run {nu; cargo run}
+man nix-shell
+nix-shell -p openssl pkg-config --run nu; cargo run
+cd rust
+cd neu
+cd neu_api_sort
+cargo run
+exit
+nix-shell -p openssl pkg-config --run nu
+cargo build --release
+exit
+nix-shell -p openssl pkg-config --run nu
+ls
+cd target
+ls
+cd release
+ls
+./neu_api_sort
+cd ..
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo run
+hx .
+cargo build --release
+cargo build --release --target-dir /home/bery/Downloads
+cd rust
+cd neu_api_sort
+hx .
+cargo build --release --target-dir /home/bery/Downloads
+nvidia-smi
+sudo nvidia-smi
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+nvidia-smi
+sudo nvidia-smi
+ls
+sudo nixos-rebuild switch --upgrade
+reboot now
+systemctl start display-manager.service
+startx
+lightdm
+sudo lightdm
+lightdm
+systemctl start display-manager.service
+cd /etc
+hx .
+ls
+cd /inittab
+cd /etc/nixos
+hx .
+sudo nixos-rebuild switch --upgrade
+ls
+cd Downloads
+ls
+./23
+./35
+cd ~
+cd rust
+cd neu_api_sort
+hx .
+cargo build --release --target-dir /home/bery/Downloads
+hx .
+cargo build --release --target-dir /home/bery/Downloads
+cpu
+lscpu
+pipewire
+ls
+rustup update
+reboot now
+sudo reboot now
+cd /etc/nixos
+sudo hx .
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+hx .
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+lsblk
+fdisk -l
+fdisk /dev/sdb
+fdisk -l
+1 + 1
+fdisk -l
+cd /etc/nixos
+sudo hx .
+cd /etc/nixos
+lsblk
+sudo hx .
+nixos-generate-config
+sudo nixos-generate-config
+sudo hx .
+LSBLK
+lsblk
+unmount sda1
+unmnt
+unmount
+sudo nixos-generate-config
+sudo hx .
+blkid
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+oh-my-posh init nu --config /home/bery/std/config/bery.omp.json
+oh-my-posh
+config
+config nu
+ssh-keygen
+ssh bery@192.168.86.200 -p 44443cd /etc/nixos
+sudo hx .
+ssh bery@192.168.86.200 -p 44443cd /etc/nixos
+ssh bery@192.168.86.200 -p 44443
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+oh-my-posh
+oh-my-posh init nu --config /home/bery/std/config/bery.omp.json
+ssh bery@192.168.86.200 -p 44443
+cd ~
+cd .config
+cd nushell
+hx .
+f15c3
+echo f15c3
+printf '\U1F984\n'
+printf '\U1F984\u'
+printf '\U1F984\n'
+printf '10\U1F984\n'
+printf '10x\U1F984\n'
+printf 
+printf --help
+printf '\U1F984\n\e'
+printf '\U1F984\'
+printf '\U1F984'
+printf '\146\157\157'
+printf '%x\U1F984\n'
+printf '\U1F984\%x'
+printf '\%xU1F984\n'
+printf '%xU1F984\n'
+printf '%x'
+printf '%x2'
+printf '0%x'
+printf '157%x'
+printf '%d'
+󱗃
+ls
+font
+ld
+ls
+alacritty msg create-window
+ok
+nf-md-unicorn
+nerdfont
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+hx .
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+reboot now
+sudo reboot now
+cd /etc/fonts
+ls
+cd conf.d
+ls
+cp
+cp -h
+cp /home/bery/.config/fontconfig/conf.d/70-no-dejavu.conf .
+sudo cp /home/bery/.config/fontconfig/conf.d/70-no-dejavu.conf .
+cd /etc/fonts
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+neofetch
+sudo reboot now
+fonts
+neofetch
+plasma
+fc-scan
+fc-scan -V
+fc-list
+fc-cache -f -v
+mv ~/.kde4 ~/kde4.old
+rg 'font'
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+fc-cache -f -v
+ls
+cd /etc/nixos
+hx .
+sudo hx .
+nix-channel --list
+sudo nix-channel --list
+sudo nix-channel --add https://nixos.org/channels/nixos-unstable nixos
+sudo nix-channel --list
+sudo nixos-rebuild switch --upgrade
+hx .
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+hx .
+sudo hx .
+ls
+cd rust
+ls
+git clone https://github.com/helix-editor/helix<\n>cd helix<\n>
+cd /etc/nixos
+hx .
+sudo nixos-rebuild switch --upgrade
+git clone https://github.com/helix-editor/helix
+cd helix
+cd ~
+cd rust
+git clone https://github.com/helix-editor/helix
+cd helix
+rustup update
+cargo
+config nu
+config env
+cargo install --path helix-term --locked
+config nu
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+hx .
+hx --grammar fetch
+hx --grammar build
+hx --health
+hx .
+shutdown now
+config nu
+source ~/.oh-my-posh.nu
+oh-my-posh init nu --config /home/bery/std/config/bery.omp.json
+source ~/.oh-my-posh.nu
+hx
+hx 
+config nu
+hx --health
+hx
+lf
+lf-pick
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+cd .config
+ls
+cd /root
+sudo cd /root/.config
+cd ~
+ln -s  /home/bery/.oh-my-posh.nu .oh-my-posh.nu
+su bery
+nu
+config nu
+$env.SHELL
+$env.SHELL = /run/current-system/sw/bin/nu
+$env.SHELL
+$env.SHELL = /run/current-system/sw/bin/nu
+config env
+$env.SHELL
+shell
+shells
+cd ~
+shells
+rg 'bash'
+rg 'bash' --debug
+cd ..
+rg 'bash' --debug
+rg 'bash'
+cat
+cat /etc/shells
+cd /etc/shells
+cd /etc
+ls
+ps -p $$
+chsh
+su bery
+sudo su
+$env.SHELL
+cp contrib/Helix.desktop ~/.local/share/applications<\n>cp contrib/helix.png ~/.icons # or ~/.local/share/icons<\n>
+cd /home/bery/rust
+cd helix
+ls
+cp contrib/Helix.desktop ~/.local/share/applications<\n>cp contrib/helix.png ~/.icons # or ~/.local/share/icons<\n>
+sudo su
+chsh
+sudo chsh
+su bery
+chsh bery
+$env.XDG_DATA_HOME
+$env.XDG_DATA_DIRS
+(http get https://api.chucknorris.io/jokes/random).value<\n>
+(http get https://api.chucknorris.io/jokes/random).value
+cd /etc/nixos
+sudo hx .
+hx
+sudo hx
+sudo hx --health
+lfconfig
+ifconfig
+cd /root/.config/helix
+ln -s /home/bery/rust/helix/runtime ./runtime
+ln -s /home/bery/.config/helix/config.toml ./config.toml
+hx
+quit
+exit
+sudo su
+exit
+sudo nixos-rebuild switch
+cd /etc/nixos
+su bery
+ssh bery@192.168.86.150 -p 44443
+cd /etc/nixos
+exit
+hx .
+cd /etc/shells
+ls /etc/shells
+cd /etc/shells
+cd /etc
+ls
+/etc/passwd
+cd /etc/passwd
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+sudo hx .
+sudo nixos-rebuild switch
+hx /etc/default
+exit
+ssh bery@192.168.86.200 -p 44443
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch
+hx --health
+sudo hx .
+sudo nixos-rebuild switch
+hx --health
+cd /home/bery
+mkdir python
+cd python
+hx new.py
+python new.py
+hx .
+rm new.py
+shutdown now
+hx .
+ssh bery@192.168.86.200 -p 44443
+ssh bery@173.32.200.76 -p 44443
+ssh bery@173.32.200.200 -p 44443
+ping 173.32.200.76
+ping 173.32.200.76 -p 44443
+ping 173.32.200.76:44443
+ping 173.32.200.76
+ping 173.32.200.200
+ping 173.32.200.123
+ping 173.32.200.76
+cd /etc/nixos
+sudo hx .
+sudo nixos-rebuild switch --upgrade
+hx .
+x2go
+x2goclient
+cd /etc/nixos
+sudo hx .
+ssh bery@173.32.200.76 -p 44443
+exit
+sudo nixos-rebuild switch --upgrade
+59 + 120
+250-179
+250 - 179
+71000 / 8600
+3000 - 2637
+363 - 250
+113000 / 8650
+8.25 + 13.06
+58000 / 8650
+(6.705 * 10) / 24
+#!/bin/sh sleep 0.5 loginctl lock-session xset dpms force off
+off.sh
+./off.sh
+sudo ./off.sh
+8.25 + 13.06
+cd /etc/nixos
+sudo hx .
+hx
+hx --health
+cd /home/bery/.config/helix/runtime;/home/bery/.cargo/bin/runtime
+cd /home/bery/.config/helix/runtime
+ls
+cd ..
+ls
+cd /home/bery/.cargo/bin/runtime
+ls
+cd themes
+ls
+sudo nixos-rebuild switch --upgrade
+sudo hx .
+reboot now
+sudo reboot now
+ls
+rm off.sh
+ls
+cd /etc/nixos
+sudo hx .
